@@ -16,13 +16,13 @@ const Home = () => {
         setReadTime(readTime + time);
     }
     const bookmarkHandler = (data) => {
-        console.log(data)
+        setBookmark([...bookmarked, data])
     }
     return (
         <section className='mt-20'>
             <div className="container mx-auto px-[2.5%] flex gap-3">
                 <Cards data={cardsData} readTimeHandler = {readTimeHandler} bookmarkHandler= {bookmarkHandler} ></Cards>
-                <Bookmark totalTime= {readTime}></Bookmark>
+                <Bookmark totalTime= {readTime} bookmarked={bookmarked}></Bookmark>
             </div> 
         </section>
     );
