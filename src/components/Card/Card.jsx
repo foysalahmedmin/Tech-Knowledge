@@ -3,7 +3,7 @@ import bookmark from '../../assets/bookmark-regular.svg'
 const Card = (props) => {
     const {id, author_name, blog_title, author_picture, blog_picture, read_time} = props.data ;
     return (
-        <div className='max-w-[845px] overflow-hidden my-9'>
+        <div className='w-full overflow-hidden my-9'>
             <div className='h-[450px] overflow-hidden'><img className='w-full' src= {blog_picture} alt="" /></div>
             <div className='flex justify-between items-center my-7'>
                 <div className='flex gap-5 items-center'>

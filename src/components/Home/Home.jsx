@@ -19,7 +19,7 @@ const Home = () => {
         console.log(data)
     }
     return (
-        <section>
+        <section >
             <div className="container mx-auto px-[2.5%] flex">
                 <Cards data={cardsData} readTimeHandler = {readTimeHandler} bookmarkHandler= {bookmarkHandler} ></Cards>
                 <Bookmark totalTime= {readTime}></Bookmark>
