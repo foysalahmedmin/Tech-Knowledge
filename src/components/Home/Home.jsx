@@ -6,6 +6,7 @@ import React, { useEffect, useState } from 'react';
 const Home = () => {
     const [cardsData, setCardsData] = useState([])
     const [readTime , setReadTime] = useState(0)
+    const [bookmarked , setBookmark] = useState([])
     useEffect(() => {
         fetch("blogs_data.json")
         .then(res => res.json())
@@ -14,10 +15,13 @@ const Home = () => {
     const readTimeHandler = (time) =>{
         setReadTime(readTime + time);
     }
+    const bookmarkHandler = (data) => {
+        console.log(data)
+    }
     return (
         <section>
             <div className="container mx-auto px-[2.5%] flex">
-                <Cards data={cardsData} readTimeHandler = {readTimeHandler} ></Cards>
+                <Cards data={cardsData} readTimeHandler = {readTimeHandler} bookmarkHandler= {bookmarkHandler} ></Cards>
                 <Bookmark totalTime= {readTime}></Bookmark>
             </div> 
         </section>

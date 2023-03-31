@@ -14,7 +14,7 @@ const Card = (props) => {
                     </div>
                 </div>
                 <p className='flex items-center'>{read_time} min read
-                    <button className='ml-5'>
+                    <button onClick={() => props.bookmarkHandler(props.data)} className='ml-5 btn btn-ghost'>
                         <img className='h-4' src= {bookmark} alt="" />
                     </button>
                 </p>
