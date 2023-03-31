@@ -19,8 +19,8 @@ const Home = () => {
         console.log(data)
     }
     return (
-        <section >
-            <div className="container mx-auto px-[2.5%] flex">
+        <section className='mt-20'>
+            <div className="container mx-auto px-[2.5%] flex gap-3">
                 <Cards data={cardsData} readTimeHandler = {readTimeHandler} bookmarkHandler= {bookmarkHandler} ></Cards>
                 <Bookmark totalTime= {readTime}></Bookmark>
             </div> 

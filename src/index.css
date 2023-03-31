@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer utilities {
+    .h-screen-s{
+        height: calc(100vh - 5rem);
+    }
     .scroll-hide::-webkit-scrollbar {
       display: none;
     }
