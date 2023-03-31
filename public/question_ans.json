@@ -1,0 +1,22 @@
+[
+  {
+    "id": "642707cd4289e07fbc3ab2cd",
+    "question": "What is the difference between Props and state?",
+    "ans": "Nulla Lorem veniam velit ea minim commodo exercitation enim elit et non. Sunt aute do cupidatat culpa. Magna dolore veniam proident cupidatat deserunt Lorem. Laboris eu sint minim pariatur quis velit officia elit ut in officia enim cillum irure. Do minim culpa irure ut ullamco Lorem.\r\n"
+  },
+  {
+    "id": "642707cd9923c21b7a07c956",
+    "question": "How does useState work?",
+    "ans": "Ex ut exercitation reprehenderit excepteur veniam fugiat eiusmod elit commodo proident irure. Pariatur amet do consequat quis ad laborum irure exercitation laboris aliqua et nostrud incididunt ea. Et eu exercitation anim excepteur aliqua ullamco fugiat. Magna tempor dolor cupidatat dolor. Dolore nulla sint irure excepteur ut aute irure eiusmod nostrud nisi nostrud et cillum.\r\n"
+  },
+  {
+    "id": "642707cd0e9bbcf324e50eab",
+    "question": "What Purpose of useEffect other than fetching data?",
+    "ans": "Consectetur esse aliqua eiusmod ullamco ex exercitation aliquip excepteur velit laboris elit. Est culpa cillum aliqua exercitation amet in dolore mollit laborum et sint consectetur. Proident esse excepteur fugiat id nostrud id et labore non.\r\n"
+  },
+  {
+    "id": "642707cd92cef7d3f29f763c",
+    "question": "How Does React work?",
+    "ans": "Consectetur est aliqua esse irure est consequat. Aliquip eu non ullamco id. Veniam nostrud non non minim in non est fugiat laboris mollit. Velit qui adipisicing labore id fugiat sit tempor mollit occaecat fugiat dolor.\r\n"
+  }
+]

@@ -22,12 +22,12 @@ const Home = () => {
         if(!exist){
             setBookmark([...bookmarked, data])
         }else{
-            toast("It already exists in your bookmark list!")
+            toast("You Have Already Bookmarked This Blog!")
         }
     }
     return (
         <section className='mt-20'>
-            <div className="container mx-auto px-[2.5%] flex gap-3">
+            <div className="container mx-auto px-[2.5%] lg:flex gap-3">
                 <Cards data={cardsData} readTimeHandler = {readTimeHandler} bookmarkHandler= {bookmarkHandler} ></Cards>
                 <Bookmark totalTime= {readTime} bookmarked={bookmarked}></Bookmark>
             </div> 
