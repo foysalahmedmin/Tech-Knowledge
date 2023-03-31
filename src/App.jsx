@@ -1,12 +1,11 @@
 import React from 'react';
+import Header from './components/Header/Header';
 
 const App = () => {
   return (
-    <div>
-      <h1 className="text-3xl font-bold underline btn">
-      Hello world!
-    </h1>
-    </div>
+    <>
+    <Header></Header>
+    </>
   );
 };
 
