@@ -6,7 +6,8 @@
     "read_time": 6,
     "author_name": "Dejesus Holland",
     "blog_title": "By programming yourself, how to get better at programming.",
-    "about": "Sit sit laborum pariatur consectetur dolor excepteur commodo Lorem amet et cillum tempor proident. Fugiat consectetur deserunt proident velit sit reprehenderit ipsum aute sit ullamco. Ipsum voluptate tempor enim est sunt tempor elit duis commodo in exercitation. Excepteur qui culpa exercitation reprehenderit exercitation ipsum magna consequat nisi.\r\n"
+    "about": "Sit sit laborum pariatur consectetur dolor excepteur commodo Lorem amet et cillum tempor proident. Fugiat consectetur deserunt proident velit sit reprehenderit ipsum aute sit ullamco. Ipsum voluptate tempor enim est sunt tempor elit duis commodo in exercitation. Excepteur qui culpa exercitation reprehenderit exercitation ipsum magna consequat nisi.\r\n",
+    "date": "March 15, 2023"
   },
   {
     "id": "64265c43879b78edcd9a2a40",
@@ -15,7 +16,8 @@
     "read_time": 9,
     "author_name": "Cecelia Woodward",
     "blog_title": "How to get your first job as a self-taught programmer",
-    "about": "Amet minim excepteur elit tempor aliquip commodo. Fugiat officia sunt laborum consequat magna. Enim ullamco reprehenderit nulla mollit labore laboris.\r\n"
+    "about": "Amet minim excepteur elit tempor aliquip commodo. Fugiat officia sunt laborum consequat magna. Enim ullamco reprehenderit nulla mollit labore laboris.\r\n",
+    "date": "February 27, 2023"
   },
   {
     "id": "64265c43b9d95da73eba725f",
@@ -24,7 +26,8 @@
     "read_time": 15,
     "author_name": "Howard Freeman",
     "blog_title": "Master Microsoft Power Platform and Become an In-Demand!",
-    "about": "Laborum ex duis mollit ipsum do velit consectetur mollit cupidatat ullamco dolore. Ut aliquip nulla et culpa. Non non nulla do eiusmod fugiat. Dolore excepteur sunt ut elit. Nulla dolor excepteur adipisicing id dolore officia ipsum commodo labore sunt. Sit laboris aliquip ea incididunt voluptate amet velit. Magna culpa enim cupidatat nostrud consectetur culpa aliquip.\r\n"
+    "about": "Laborum ex duis mollit ipsum do velit consectetur mollit cupidatat ullamco dolore. Ut aliquip nulla et culpa. Non non nulla do eiusmod fugiat. Dolore excepteur sunt ut elit. Nulla dolor excepteur adipisicing id dolore officia ipsum commodo labore sunt. Sit laboris aliquip ea incididunt voluptate amet velit. Magna culpa enim cupidatat nostrud consectetur culpa aliquip.\r\n",
+    "date": "October 29, 2022"
   },
   {
     "id": "64265c4371dcadeb3d476215",
@@ -33,6 +36,7 @@
     "read_time": 25,
     "author_name": "Dominique Tucker",
     "blog_title": "How our digital machines work. and how the software connects to it.",
-    "about": "Lorem laboris labore nisi ad do irure enim et mollit deserunt ullamco id. Esse est id quis ex. Mollit nostrud cupidatat esse aute culpa et dolor. Voluptate incididunt cupidatat consectetur occaecat. Aliquip exercitation culpa cupidatat consectetur in incididunt sunt nostrud irure. Consequat ad eiusmod ut nisi ullamco ad dolore veniam enim veniam culpa. Consequat adipisicing ea qui sint ex ex.\r\n"
+    "about": "Lorem laboris labore nisi ad do irure enim et mollit deserunt ullamco id. Esse est id quis ex. Mollit nostrud cupidatat esse aute culpa et dolor. Voluptate incididunt cupidatat consectetur occaecat. Aliquip exercitation culpa cupidatat consectetur in incididunt sunt nostrud irure. Consequat ad eiusmod ut nisi ullamco ad dolore veniam enim veniam culpa. Consequat adipisicing ea qui sint ex ex.\r\n",
+    "date": "December 13, 2022"
   }
 ]

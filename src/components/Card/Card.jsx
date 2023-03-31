@@ -1,18 +1,20 @@
 import React from 'react';
 import bookmark from '../../assets/bookmark-regular.svg'
 const Card = (props) => {
-    const {id, author_name, blog_title, author_picture, blog_picture, read_time} = props.data ;
+    const {id, author_name, blog_title, author_picture, blog_picture, read_time, date} = props.data ;
+    const actualDate = new Date(date);
+    const distanceDay = parseInt(Math.abs((actualDate - new Date()) / 86400000))
     return (
         <div className='w-full overflow-hidden my-9'>
             <div className='max-h-[450px] overflow-hidden'>
                 <img className='w-full' src= {blog_picture} alt="" />
             </div>
-            <div className='flex justify-between items-center my-7'>
+            <div className='flex justify-between items-center my-7 gap-3'>
                 <div className='flex gap-5 items-center'>
                     <img className='w-10 h-10 rounded-full' src= {author_picture} alt="" />
                     <div>
                         <h3 className='text-xl font-semibold capitalize'>{author_name}</h3>
-                        <p>Mar 14 (4 Days ago)</p>
+                        <p> {date}  ({distanceDay} Days ago)</p>
                     </div>
                 </div>
                 <p className='flex items-center'>{read_time} min read

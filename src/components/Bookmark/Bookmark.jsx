@@ -2,10 +2,9 @@ import React from 'react';
 import BookmarkedItem from '../BookmarkedItem/BookmarkedItem';
 
 const Bookmark = (props) => {
-    console.log(props.bookmarked);
     const bookmarked_items = props.bookmarked ;
     return (
-        <div className='lg:h-screen-s lg:scroll-hide lg:overflow-y-scroll lg:w-[350px] w-full' >
+        <div className='lg:h-screen-s lg:scroll-hide lg:overflow-y-scroll lg:w-[350px] w-full mb-8 lg:mb-0' >
             <div className='text-center p-5 border border-purple-900 text-purple-900 bg-purple-100 rounded-lg my-9'>
                 <h1 className='text-xl font-bold'>
                     Spent time on read : {props.totalTime} min;
