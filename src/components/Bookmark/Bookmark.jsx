@@ -5,7 +5,7 @@ const Bookmark = (props) => {
     console.log(props.bookmarked);
     const bookmarked_items = props.bookmarked ;
     return (
-        <div className='h-screen-s overflow-y-scroll w-[350px] scroll-hide' >
+        <div className='lg:h-screen-s lg:scroll-hide lg:overflow-y-scroll lg:w-[350px] w-full' >
             <div className='text-center p-5 border border-purple-900 text-purple-900 bg-purple-100 rounded-lg my-9'>
                 <h1 className='text-xl font-bold'>
                     Spent time on read : {props.totalTime} min;

@@ -4,7 +4,9 @@ const Card = (props) => {
     const {id, author_name, blog_title, author_picture, blog_picture, read_time} = props.data ;
     return (
         <div className='w-full overflow-hidden my-9'>
-            <div className='h-[450px] overflow-hidden'><img className='w-full' src= {blog_picture} alt="" /></div>
+            <div className='max-h-[450px] overflow-hidden'>
+                <img className='w-full' src= {blog_picture} alt="" />
+            </div>
             <div className='flex justify-between items-center my-7'>
                 <div className='flex gap-5 items-center'>
                     <img className='w-10 h-10 rounded-full' src= {author_picture} alt="" />
@@ -14,7 +16,7 @@ const Card = (props) => {
                     </div>
                 </div>
                 <p className='flex items-center'>{read_time} min read
-                    <button onClick={() => props.bookmarkHandler(props.data)} className='ml-5 btn btn-ghost'>
+                    <button onClick={() => props.bookmarkHandler(props.data)} className='btn btn-ghost'>
                         <img className='h-4' src= {bookmark} alt="" />
                     </button>
                 </p>
