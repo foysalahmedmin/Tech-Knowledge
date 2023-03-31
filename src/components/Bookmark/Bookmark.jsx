@@ -1,6 +1,7 @@
 import React from 'react';
 
-const Bookmark = () => {
+const Bookmark = (props) => {
+    console.log(props.totalTime);
     return (
         <div>
             

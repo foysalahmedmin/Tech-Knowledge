@@ -7,7 +7,7 @@ const Cards = (props) => {
     return (
         <div>
             {
-                data.map(singleData => <Card data={singleData} key = {singleData.id}></Card>)
+                data.map(singleData => <Card data={singleData} key = {singleData.id} readTimeHandler = {props.readTimeHandler}></Card>)
             }
         </div>
     );

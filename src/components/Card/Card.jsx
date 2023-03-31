@@ -21,7 +21,7 @@ const Card = (props) => {
             </div>
             <h1 className="text-2xl font-bold mb-4">{blog_title}</h1>
             <p className=''>#beginners #programming</p>
-            <button className='btn btn-link m-0 p-0'>Mark as read</button>
+            <button onClick={() => props.readTimeHandler(read_time)} className='btn btn-link m-0 p-0'>Mark as read</button>
         </div>
     );
 };
