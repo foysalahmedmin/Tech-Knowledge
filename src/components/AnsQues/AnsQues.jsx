@@ -12,7 +12,7 @@ const AnsQues = (props) => {
                     </h3>
                 </div>
                 <div className= {show == true? "block" : "hidden"}>
-                    <p className='px-12 py-6'>
+                    <p className='px-12 py-6 bg-sky-100'>
                         {ans}
                     </p>
                 </div>

@@ -3,8 +3,8 @@ import React from 'react';
 const Header = () => {
     return (
         <header className='bg-white fixed w-full z-10 top-0'>
-            <div className="container mx-auto px-[2.5%]">
-                <nav className='flex items-center justify-between py-4 border-b'>
+            <div className="container mx-auto px-[2.5%] border-b-2">
+                <nav className='flex items-center justify-between py-4'>
                     <h1 className='text-3xl font-bold'>
                         Tech Knowledge
                     </h1>
