@@ -1,6 +1,8 @@
 import Cards from '../Cards/Cards';
 import Bookmark from '../Bookmark/Bookmark';
 import React, { useEffect, useState } from 'react';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 const Home = () => {
@@ -16,7 +18,12 @@ const Home = () => {
         setReadTime(readTime + time);
     }
     const bookmarkHandler = (data) => {
-        setBookmark([...bookmarked, data])
+        const exist = bookmarked.find(singleData => singleData.id === data.id)
+        if(!exist){
+            setBookmark([...bookmarked, data])
+        }else{
+            toast("It already exists in your bookmark list!")
+        }
     }
     return (
         <section className='mt-20'>
@@ -24,6 +31,7 @@ const Home = () => {
                 <Cards data={cardsData} readTimeHandler = {readTimeHandler} bookmarkHandler= {bookmarkHandler} ></Cards>
                 <Bookmark totalTime= {readTime} bookmarked={bookmarked}></Bookmark>
             </div> 
+            <ToastContainer></ToastContainer>
         </section>
     );
 };
