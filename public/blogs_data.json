@@ -38,5 +38,55 @@
     "blog_title": "How our digital machines work. and how the software connects to it.",
     "about": "Lorem laboris labore nisi ad do irure enim et mollit deserunt ullamco id. Esse est id quis ex. Mollit nostrud cupidatat esse aute culpa et dolor. Voluptate incididunt cupidatat consectetur occaecat. Aliquip exercitation culpa cupidatat consectetur in incididunt sunt nostrud irure. Consequat ad eiusmod ut nisi ullamco ad dolore veniam enim veniam culpa. Consequat adipisicing ea qui sint ex ex.\r\n",
     "date": "December 13, 2022"
+  },
+  {
+    "id": "64265c4371dcadeb3d376215",
+    "author_picture": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "blog_picture": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "read_time": 9,
+    "author_name": "Habelnique Bucker",
+    "blog_title": "Programmers need to eat some kind of healthy food.",
+    "about": "Lorem laboris labore nisi ad do irure enim et mollit deserunt ullamco id. Esse est id quis ex. Mollit nostrud cupidatat esse aute culpa et dolor. Voluptate incididunt cupidatat consectetur occaecat. Aliquip exercitation culpa cupidatat consectetur in incididunt sunt nostrud irure. Consequat ad eiusmod ut nisi ullamco ad dolore veniam enim veniam culpa. Consequat adipisicing ea qui sint ex ex.\r\n",
+    "date": "February 15, 2023"
+  },
+  {
+    "id": "64265c4371dcadec3d476215",
+    "author_picture": "https://images.unsplash.com/photo-1456327102063-fb5054efe647?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "blog_picture": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+    "read_time": 21,
+    "author_name": "Tarek Monowar",
+    "blog_title": " What kind of space should programmers create for their work? And respect for how productivity can come from working in any kind of place.",
+    "about": "Lorem laboris labore nisi ad do irure enim et mollit deserunt ullamco id. Esse est id quis ex. Mollit nostrud cupidatat esse aute culpa et dolor. Voluptate incididunt cupidatat consectetur occaecat. Aliquip exercitation culpa cupidatat consectetur in incididunt sunt nostrud irure. Consequat ad eiusmod ut nisi ullamco ad dolore veniam enim veniam culpa. Consequat adipisicing ea qui sint ex ex.\r\n",
+    "date": "December 29, 2022"
+  },
+  {
+    "id": "64265c9371dcadeb3d476215",
+    "author_picture": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "blog_picture": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "read_time": 15,
+    "author_name": "Zulfiqar Ali",
+    "blog_title": "How does a tech company create their job positions? And what steps are taken to increase productivity?.",
+    "about": "Lorem laboris labore nisi ad do irure enim et mollit deserunt ullamco id. Esse est id quis ex. Mollit nostrud cupidatat esse aute culpa et dolor. Voluptate incididunt cupidatat consectetur occaecat. Aliquip exercitation culpa cupidatat consectetur in incididunt sunt nostrud irure. Consequat ad eiusmod ut nisi ullamco ad dolore veniam enim veniam culpa. Consequat adipisicing ea qui sint ex ex.\r\n",
+    "date": "June 11, 2022"
+  },
+  {
+    "id": "64265c4371dcaded3d476215",
+    "author_picture": "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "blog_picture": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "read_time": 17,
+    "author_name": "Roton Mulla",
+    "blog_title": "How to keep your data safe from hackers.",
+    "about": "Lorem laboris labore nisi ad do irure enim et mollit deserunt ullamco id. Esse est id quis ex. Mollit nostrud cupidatat esse aute culpa et dolor. Voluptate incididunt cupidatat consectetur occaecat. Aliquip exercitation culpa cupidatat consectetur in incididunt sunt nostrud irure. Consequat ad eiusmod ut nisi ullamco ad dolore veniam enim veniam culpa. Consequat adipisicing ea qui sint ex ex.\r\n",
+    "date": "January 15, 2023"
+  },
+  {
+    "id": "65265c4371dcaded3d476215",
+    "author_picture": "https://images.unsplash.com/photo-1498798821241-1f327af804fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+    "blog_picture": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80",
+    "read_time": 31,
+    "author_name": "Safowan",
+    "blog_title": "How effective is typing speed in increasing work productivity? And how to increase typing speed.",
+    "about": "Lorem laboris labore nisi ad do irure enim et mollit deserunt ullamco id. Esse est id quis ex. Mollit nostrud cupidatat esse aute culpa et dolor. Voluptate incididunt cupidatat consectetur occaecat. Aliquip exercitation culpa cupidatat consectetur in incididunt sunt nostrud irure. Consequat ad eiusmod ut nisi ullamco ad dolore veniam enim veniam culpa. Consequat adipisicing ea qui sint ex ex.\r\n",
+    "date": "September 19, 2022"
   }
 ]

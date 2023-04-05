@@ -8,7 +8,6 @@ const App = () => {
     <>
     <Header></Header>
     <Home></Home>
-    <BlogQ></BlogQ>
     </>
   );
 };
